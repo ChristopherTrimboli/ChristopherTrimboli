@@ -6,10 +6,10 @@ React, Node.js, Typescript, HTML, CSS, UI libraries, API development and product
 
 I am currently learning dapp development, smart contracts and the ETH ecosystem.
 
-To pay the bills, I'm making next-gen casino games as a senior engineer for a company in Vancouver.
+Fulltime, I'm a frontend team lead for a next-gen e-casino games company in Vancouver.
 
-In my free time, I am hacking on @own-me, my edgy and sexy NFT platform similar to Only Fans.
-
+In my free time, I am building my own company @own-me, an edgy and sexy adult content NFT platform for the Web3 Metaverse, similar to Only Fans.
+ 
 If you wanna connect, hit me up.
 
 👋
