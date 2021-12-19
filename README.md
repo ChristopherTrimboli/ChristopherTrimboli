@@ -1,6 +1,6 @@
 👽 yo
 
-I'm a web engineer with 5 years of experience, mainly a full-stack JavaScript developer leaning towards the front-end.
+I'm a web3 engineer with 5 years of experience, mainly a full-stack JavaScript developer leaning towards the front-end.
 
 React, Node.js, Typescript, HTML, CSS, UI libraries, API development and product / engineering management are some of my key skills.
 
