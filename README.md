@@ -4,7 +4,7 @@ I'm a web3 engineer with 5 years of experience, mainly a full-stack JavaScript d
 
 React, Node.js, Typescript, HTML, CSS, UI libraries, API development and product / engineering management are some of my key skills.
 
-I am currently learning dapp development, smart contracts and the ETH ecosystem.
+I have about a year of experience in dapp development, smart contracts and the ETH ecosystem. Still learning for sure, but can get most things done.
 
 Fulltime, I'm a frontend team lead for a next-gen e-casino games company in Vancouver.
 
