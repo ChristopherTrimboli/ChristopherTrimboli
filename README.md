@@ -8,7 +8,7 @@ I have about a year of experience in dapp development, smart contracts and the E
 
 Fulltime, I'm a frontend team lead for a next-gen e-casino games company in Vancouver.
 
-In my free time, I am building my startup @own-me, an edgy and sexy adult content NFT platform for the Web3 Metaverse.
+In my free time, I am building my startup @own-me, an edgy and sexy adult content NFT platform for the web3 metaverse.
  
 If you wanna connect, hit me up!
 
