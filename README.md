@@ -1,14 +1,12 @@
 👽 yo
 
-I'm a web3 engineer with 5 years of experience, mainly a full-stack JavaScript developer leaning towards the front-end.
+I am Founder / Lead Web3 Engineer @ Own Me Inc. Solo building the xxx-metaverse.
 
-React, Node.js, Typescript, HTML, CSS, UI libraries, API development and product / engineering management are some of my key skills.
+My background is 6 years of coding experience in startups and open source metaverse projects + 3 years of formal university computer science.
 
-I have about a year of experience in dapp development, smart contracts and the ETH ecosystem. Confident building dapps, so-so with solidity, but I've made a few tokens.
+I would call myself a: "full-stack lead JavaScript engineer, leaning towards the front-end".
 
-Fulltime, I'm a frontend team lead for a next-gen e-casino games company in Vancouver.
-
-In my free time, I am building my startup @own-me, an edgy and sexy adult content NFT platform for the web3 metaverse.
+BC, Canada born and raised. Pro free speech and expression. Ambitous and driven.
  
 If you wanna connect, hit me up!
 
