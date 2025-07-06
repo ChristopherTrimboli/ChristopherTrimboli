@@ -7,6 +7,10 @@ Enjoyer of AI and web3.
 
 Here to code and make friends.
 
+Support my work:
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/ChristopherTrimboli)
+
 <!-- WALLET-LINKING-BEGIN
 {
   "lastUpdated": "2025-06-28T04:06:48.358Z",
